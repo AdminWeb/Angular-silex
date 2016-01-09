@@ -12,11 +12,5 @@
     "pdepend/pdepend": "2.0.*",
     "phploc/phploc": "2.0.*", 
     "theseer/phpdox": "0.7.*"
-	},
-"autoload" : {
-		"psr-4" : {
-			"PJenkins\\" : "src/PJenkins"
-		}
-	},
-	"license": "MIT"
+	}
 }
